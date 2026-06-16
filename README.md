@@ -11,5 +11,7 @@ aPFAs current features as of **v1.0.1** are:
 - Background color chooser along with custom images
 - Color profiles!
 
+
+
 For now, the source code will remain closed.
   <img width="48" height="48" alt="aPFAlogo" src="https://github.com/user-attachments/assets/cc1f24f7-b5a1-4daa-87d9-4bca952d007e" />
